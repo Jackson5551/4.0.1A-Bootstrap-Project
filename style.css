@@ -4,6 +4,9 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+h1{
+    font-size: 3.5em;
+}
 
 #landing {
     height: 90vh;
